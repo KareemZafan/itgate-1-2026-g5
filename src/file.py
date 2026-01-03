@@ -15,5 +15,8 @@ def print_name(name):
 def add(a, b):
     return a + b
 
+def print():
+    print("I'm here")
+
 
 print_name("Ahmed")
