@@ -16,3 +16,7 @@ print_name("Ahmed)
   
 def print_name(name):
 	print(f"Hello {name}") 
+
+
+def add (a , b): 
+ return a + b
