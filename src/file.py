@@ -1,7 +1,7 @@
 ### Python file
 print("Hello")
 
-names = ["Ahmed", "Mohamed", "Alaa"]
+names = ["Ahmed", "Mohamed", "Alaa", "Ali", "Adham"]
 
 ## print names
 for i in names:
